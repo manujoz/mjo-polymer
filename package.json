@@ -1,0 +1,18 @@
+{
+  "name": "mjo-polymer",
+  "version": "1.0.0",
+  "description": "Polymer 3 library adapted to work in browsers compatible with web components without the need for compilations.",
+  "keywords": [
+    "Polymer 3",
+    "Web Components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manujoz/mjo-polymer"
+  },
+  "dependencies": {
+    "mjo-webcomponents": "^1.0.0"
+  },
+  "author": "The Polymer Project Authors",
+  "license": "ISC"
+}

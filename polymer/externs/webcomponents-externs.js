@@ -1,0 +1,1 @@
+let ShadyDOM={inUse:!1,flush(){},observeChildren(target,callback){},unobserveChildren(observer){},patch(node){}};window.ShadyDOM=ShadyDOM;let WebComponents={};window.WebComponents=WebComponents;HTMLElement.prototype._activeElement;HTMLTemplateElement.decorate=function(template){};CustomElementRegistry.prototype.polyfillWrapFlushCallback=function(cb){};
